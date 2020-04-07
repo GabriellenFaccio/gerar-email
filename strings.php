@@ -10,7 +10,7 @@
 	salvaArquivo($file,$caminho);
 
 
-	$situacao = " ";
+	$situacao = "";
 	$arquivo = "testeNomes.csv";
 
 
